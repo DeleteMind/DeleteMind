@@ -5,7 +5,7 @@
 🛠️ Exploring **UI/UX, APIs, and responsive design**  
 
 💡 **Tech Stack:**  
-- HTML | CSS | JavaScript  
+- HTML | CSS | JavaScript  |  C 
 - React | Next.js  
 - Git | GitHub  
 
