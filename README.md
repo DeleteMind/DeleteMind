@@ -8,7 +8,7 @@
 
 ## About Me
 
-- Career changer: over 10 years as a guitar and music teacher and independent professional, now moving into software development
+- Career changer: over 14 years as a guitar and music teacher and independent professional, now moving into software development
 - Finishing my TeSP in Information Systems Programming at ETG Leiria, with a grade average of 16/20
 - Interested in embedded systems: deepening my C, learning C++ and building personal projects with microcontrollers
 - Started learning to code on my own before the course. I learn quickly and enjoy working in a team
