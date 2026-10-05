@@ -14,6 +14,5 @@
 - Developing real-world front-end applications  
 
 📫 **Let's Connect!**  
-- Portfolio: [Your Portfolio Link]  
-- LinkedIn: [https://www.linkedin.com/feed/]  
+- LinkedIn: [https://www.linkedin.com/in/filipe-santos-cordeiro/]  
 - Email: [filipe.santos.cordeiro@gmail.com]  
